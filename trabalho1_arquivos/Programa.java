@@ -1,7 +1,7 @@
-package trabalho1_arquivos;
 import java.util.Scanner;
 
-public class Main {
+
+public class Programa {
     public static void main(String[] args) {
         System.out.println("Trabalho Prático 1 - Técnicas de Programação");
         System.out.println("Aluno: Victor Medeiros Martins - 401339");
