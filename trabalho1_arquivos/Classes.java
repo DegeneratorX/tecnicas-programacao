@@ -1,4 +1,3 @@
-package trabalho1_arquivos;
 import java.util.*;
 import java.io.*;
 
@@ -13,8 +12,8 @@ class Arquivo {
 
     public void imprimir_arquivo() {
         System.out.printf("Conteúdo do arquivo %s(%s)%n", this.str_arquivo, this);
-        for (int i = 0; i < this.lista.size(); i++) {
-            System.out.println(this.lista.get(i));
+        for (String s : this.lista) {
+            System.out.println(s);
         }
     }
 
@@ -51,14 +50,10 @@ class Arquivo {
 }
 
 class Merge {
-    private Arquivo lista1;
-    private Arquivo lista2;
-    private List<String> lista_total;
+    private final List<String> lista_total;
 
     public Merge(Arquivo lista1, Arquivo lista2) {
-        this.lista1 = lista1;
-        this.lista2 = lista2;
-        this.lista_total = this.unir(this.lista1, this.lista2);
+        this.lista_total = this.unir(lista1, lista2);
     }
 
     private List<String> unir(Arquivo lista1, Arquivo lista2) {
