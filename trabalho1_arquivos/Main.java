@@ -13,7 +13,7 @@ public class Main {
         String str_arquivo_1 = scanner.nextLine();
         System.out.print("Digite o nome do arquivo 2:");
         String str_arquivo_2 = scanner.nextLine();
-        str_arquivo_1.substring(0, 0)
+        str_arquivo_1.substring(0, 0);
         Arquivo arquivo_1 = new Arquivo(str_arquivo_1);
         Arquivo arquivo_2 = new Arquivo(str_arquivo_2);
 
