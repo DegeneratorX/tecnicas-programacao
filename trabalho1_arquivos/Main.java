@@ -1,3 +1,5 @@
+package trabalho1_arquivos;
+
 import java.util.Scanner;
 
 public class Main {
