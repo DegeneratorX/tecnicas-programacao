@@ -1,0 +1,11 @@
+Coluna 1,Coluna 2,Coluna 3,Coluna 4,Coluna 5,Coluna 6,Coluna 7,Coluna 8,Coluna 9,Coluna 10
+2,0.371,oyihb,49,0.302,stklu,32,0.464,acrbl,23
+29,0.72,fcstu,28,0.005,wztel,28,0.34,owolw,38
+69,0.287,diglu,33,0.524,kjugm,11,0.181,zkafo,67
+75,0.919,pskhn,80,0.628,ljlpn,51,0.373,tmsmt,19
+58,0.978,mugos,25,0.375,sgpsf,31,0.933,kfwac,58
+67,0.05,giufo,36,0.778,ofnmx,9,0.942,alkyu,60
+82,0.237,njfxo,61,0.783,vrclz,91,0.069,zvrsb,14
+55,0.4,zntik,3,0.196,efdfg,54,0.525,etrie,59
+52,0.419,uqmzt,87,0.381,wvwbe,33,0.66,chfnw,9
+99,0.991,jtuuc,20,0.46,unlkl,26,0.756,ugvjt,61
